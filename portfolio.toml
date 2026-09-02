@@ -1,0 +1,369 @@
+# 工具下载配置（由上传脚本自动生成，请勿手动修改）
+download_type = "release"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/file_navigator_full.zip"
+program_download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/file_navigator_src.zip"
+
+[[files]]
+name = "README.md"
+path = "README.md"
+asset_name = "README.md"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/README.md"
+size = 760
+
+[[files]]
+name = "1-.png"
+path = "images/1-.png"
+asset_name = "1-.png"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/1-.png"
+size = 30810
+
+[[files]]
+name = "1-_2.png"
+path = "images/1-_2.png"
+asset_name = "1-_2.png"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/1-_2.png"
+size = 153490
+
+[[files]]
+name = "main.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/main.py"
+asset_name = "main.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/main.py"
+size = 284
+
+[[files]]
+name = "test_file_worker.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/test_file_worker.py"
+asset_name = "test_file_worker.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/test_file_worker.py"
+size = 6851
+
+[[files]]
+name = "config.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/config.py"
+asset_name = "config.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/config.py"
+size = 226
+
+[[files]]
+name = "test_package.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/test_package.py"
+asset_name = "test_package.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/test_package.py"
+size = 4314
+
+[[files]]
+name = "requirements.txt"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/requirements.txt"
+asset_name = "requirements.txt"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/requirements.txt"
+size = 45
+
+[[files]]
+name = "template_library_dialog.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/template_library_dialog.py"
+asset_name = "template_library_dialog.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_library_dialog.py"
+size = 7204
+
+[[files]]
+name = "main_window.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/main_window.py"
+asset_name = "main_window.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/main_window.py"
+size = 26729
+
+[[files]]
+name = "template_editor.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/template_editor.py"
+asset_name = "template_editor.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_editor.py"
+size = 32545
+
+[[files]]
+name = "right_stacked_widget.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/right_stacked_widget.py"
+asset_name = "right_stacked_widget.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/right_stacked_widget.py"
+size = 27418
+
+[[files]]
+name = "left_tree_view.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/left_tree_view.py"
+asset_name = "left_tree_view.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/left_tree_view.py"
+size = 5663
+
+[[files]]
+name = "export_settings_dialog.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/export_settings_dialog.py"
+asset_name = "export_settings_dialog.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_settings_dialog.py"
+size = 10092
+
+[[files]]
+name = "init.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/init.py"
+asset_name = "init.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init.py"
+size = 0
+
+[[files]]
+name = "folder_selector_dialog.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/folder_selector_dialog.py"
+asset_name = "folder_selector_dialog.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/folder_selector_dialog.py"
+size = 11393
+
+[[files]]
+name = "init_cpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/init_cpython-313.pyc"
+asset_name = "init_cpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init_cpython-313.pyc"
+size = 179
+
+[[files]]
+name = "left_tree_viewcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/left_tree_viewcpython-312.pyc"
+asset_name = "left_tree_viewcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/left_tree_viewcpython-312.pyc"
+size = 9542
+
+[[files]]
+name = "folder_selector_dialogcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/folder_selector_dialogcpython-312.pyc"
+asset_name = "folder_selector_dialogcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/folder_selector_dialogcpython-312.pyc"
+size = 17175
+
+[[files]]
+name = "right_stacked_widgetcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/right_stacked_widgetcpython-313.pyc"
+asset_name = "right_stacked_widgetcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/right_stacked_widgetcpython-313.pyc"
+size = 43696
+
+[[files]]
+name = "template_editorcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/template_editorcpython-312.pyc"
+asset_name = "template_editorcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_editorcpython-312.pyc"
+size = 46420
+
+[[files]]
+name = "left_tree_viewcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/left_tree_viewcpython-313.pyc"
+asset_name = "left_tree_viewcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/left_tree_viewcpython-313.pyc"
+size = 9824
+
+[[files]]
+name = "main_windowcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/main_windowcpython-312.pyc"
+asset_name = "main_windowcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/main_windowcpython-312.pyc"
+size = 36195
+
+[[files]]
+name = "main_windowcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/main_windowcpython-313.pyc"
+asset_name = "main_windowcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/main_windowcpython-313.pyc"
+size = 35349
+
+[[files]]
+name = "export_settings_dialogcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/export_settings_dialogcpython-313.pyc"
+asset_name = "export_settings_dialogcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_settings_dialogcpython-313.pyc"
+size = 9001
+
+[[files]]
+name = "right_stacked_widgetcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/right_stacked_widgetcpython-312.pyc"
+asset_name = "right_stacked_widgetcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/right_stacked_widgetcpython-312.pyc"
+size = 43107
+
+[[files]]
+name = "init_cpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/init_cpython-312.pyc"
+asset_name = "init_cpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init_cpython-312.pyc"
+size = 150
+
+[[files]]
+name = "template_editorcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/template_editorcpython-313.pyc"
+asset_name = "template_editorcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_editorcpython-313.pyc"
+size = 47428
+
+[[files]]
+name = "export_settings_dialogcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/export_settings_dialogcpython-312.pyc"
+asset_name = "export_settings_dialogcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_settings_dialogcpython-312.pyc"
+size = 12756
+
+[[files]]
+name = "template_library_dialogcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/template_library_dialogcpython-312.pyc"
+asset_name = "template_library_dialogcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_library_dialogcpython-312.pyc"
+size = 11352
+
+[[files]]
+name = "template_library_dialogcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/ui/__pycache__/template_library_dialogcpython-313.pyc"
+asset_name = "template_library_dialogcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_library_dialogcpython-313.pyc"
+size = 11643
+
+[[files]]
+name = "style.qss"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/resources/style.qss"
+asset_name = "style.qss"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/style.qss"
+size = 0
+
+[[files]]
+name = "configcpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/__pycache__/configcpython-312.pyc"
+asset_name = "configcpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/configcpython-312.pyc"
+size = 301
+
+[[files]]
+name = "configcpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/__pycache__/configcpython-313.pyc"
+asset_name = "configcpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/configcpython-313.pyc"
+size = 330
+
+[[files]]
+name = "file_worker.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/file_worker.py"
+asset_name = "file_worker.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/file_worker.py"
+size = 24495
+
+[[files]]
+name = "export_config_manager.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/export_config_manager.py"
+asset_name = "export_config_manager.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_config_manager.py"
+size = 4261
+
+[[files]]
+name = "template_library.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/template_library.py"
+asset_name = "template_library.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_library.py"
+size = 7877
+
+[[files]]
+name = "template_manager.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/template_manager.py"
+asset_name = "template_manager.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_manager.py"
+size = 12953
+
+[[files]]
+name = "init.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/init.py"
+asset_name = "init_1.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init_1.py"
+size = 0
+
+[[files]]
+name = "search_engine.py"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/search_engine.py"
+asset_name = "search_engine.py"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/search_engine.py"
+size = 17560
+
+[[files]]
+name = "init_cpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/init_cpython-313.pyc"
+asset_name = "init_cpython-313_1.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init_cpython-313_1.pyc"
+size = 181
+
+[[files]]
+name = "file_workercpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/file_workercpython-312.pyc"
+asset_name = "file_workercpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/file_workercpython-312.pyc"
+size = 25896
+
+[[files]]
+name = "template_librarycpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/template_librarycpython-312.pyc"
+asset_name = "template_librarycpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_librarycpython-312.pyc"
+size = 11792
+
+[[files]]
+name = "search_enginecpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/search_enginecpython-312.pyc"
+asset_name = "search_enginecpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/search_enginecpython-312.pyc"
+size = 23277
+
+[[files]]
+name = "template_managercpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/template_managercpython-312.pyc"
+asset_name = "template_managercpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_managercpython-312.pyc"
+size = 16332
+
+[[files]]
+name = "export_config_managercpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/export_config_managercpython-313.pyc"
+asset_name = "export_config_managercpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_config_managercpython-313.pyc"
+size = 5063
+
+[[files]]
+name = "template_managercpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/template_managercpython-313.pyc"
+asset_name = "template_managercpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_managercpython-313.pyc"
+size = 16790
+
+[[files]]
+name = "init_cpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/init_cpython-312.pyc"
+asset_name = "init_cpython-312_1.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/init_cpython-312_1.pyc"
+size = 152
+
+[[files]]
+name = "template_librarycpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/template_librarycpython-313.pyc"
+asset_name = "template_librarycpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/template_librarycpython-313.pyc"
+size = 12025
+
+[[files]]
+name = "export_config_managercpython-312.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/export_config_managercpython-312.pyc"
+asset_name = "export_config_managercpython-312.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/export_config_managercpython-312.pyc"
+size = 5034
+
+[[files]]
+name = "file_workercpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/file_workercpython-313.pyc"
+asset_name = "file_workercpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/file_workercpython-313.pyc"
+size = 23557
+
+[[files]]
+name = "search_enginecpython-313.pyc"
+path = "src/04-file_navigator(8-15-可选择导出文件夹)/core/__pycache__/search_enginecpython-313.pyc"
+asset_name = "search_enginecpython-313.pyc"
+download_url = "https://github.com/TAXLY-WorkTools/file_navigator/releases/download/v1.0.0/search_enginecpython-313.pyc"
+size = 24246
+
